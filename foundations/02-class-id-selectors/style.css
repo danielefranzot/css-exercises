@@ -1,0 +1,18 @@
+.paragraph{
+    background-color: lightcoral;
+    font-size: 20px;
+}
+
+.paragraph.third{
+    font-size: 30px;
+}
+
+#number2{
+    font-size: 45px;
+    color: blue;
+}
+#number4{
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 30px;
+}
